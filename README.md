@@ -1,6 +1,5 @@
 # Ejemplo de conencion a base de datos  mysql
 Este es un proyecto REST-API
-Para que fuciones esto ya de contar con una base de datos wn mysql 
-debe contar con una tabla llada 'todos' como lo imdica en el molelo
-
+Para que funcione esto ya debe contar con una base de datos en mysql 
+debe contar con una tabla llamada 'todos' como lo indica en el modelo
 
